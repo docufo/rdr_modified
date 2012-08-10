@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SUMMARY
 -------
 
@@ -40,3 +41,7 @@ Optional: Clear out precompiled assets (required for install in sandbox):
 
     $ rake assets:clean
 
+=======
+rdr_modified
+============
+>>>>>>> 6f2378781b2ca400774b56aa9c1bd4b2592f39ea
