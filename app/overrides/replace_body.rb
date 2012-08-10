@@ -55,8 +55,8 @@ Deface::Override.new(:virtual_path => %q{spree/layouts/spree_application},
         <div id="about-railsdog-radio">
           <div>
             <p>
-              <strong>Railsdog Radio</strong> is NOT a real satellite radio store, it's a fully working demo application
-              for <a href="http://www.spreecommerce.com">Spree Commerce</a>. Please feel free to play around, but don't submit any information you would not consider public!</p>
+              <strong>ABC Store</strong> is NOT a real store, it's a fully working demo application
+              for ABC. Please feel free to play around, but don't submit any information you would not consider public!</p>
             <p id="more-about-railsdog-radio">
               <a href="/about">More about Railsdog Radio ></a>
             </p>
